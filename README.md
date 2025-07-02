@@ -14,10 +14,10 @@ Source: [European Political Barometer](https://eupoliticalbarometer.uc3m.es/)
 
 ### Visualizations from Script 1
 
-![Boxplot of Unemployment and Poverty](boxplot unemployment and poverty.png)  
+![Boxplot of Unemployment and Poverty](boxplotunemploymentandpoverty.png)  
 Boxplot showing the distribution of unemployment and poverty rates.
 
-![Italy Unemployment](Italy unemployment.png)  
+![Italy Unemployment](Italyunemployment.png)  
 Regional unemployment rates across Italy.
 
 ![Stripbar Chart](stripbar.png)  
