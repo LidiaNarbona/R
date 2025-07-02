@@ -12,6 +12,16 @@ This script explores relationships between poverty, unemployment rate, and polit
 Data is analyzed for Greece, Hungary, and Italy, also separated by regions within each country.  
 Source: [European Political Barometer](https://eupoliticalbarometer.uc3m.es/)
 
+### Visualizations from Script 1
+
+![Boxplot of Unemployment and Poverty](boxplot unemployment and poverty.png)  
+Boxplot showing the distribution of unemployment and poverty rates.
+
+![Italy Unemployment](Italy unemployment.png)  
+Regional unemployment rates across Italy.
+
+![Stripbar Chart](stripbar.png)  
+Stripbar chart illustrating key comparisons among variables.
 ## Script 2: Global Peace Index Prediction
 
 This script develops a predictive model for the Global Peace Index (GPI) using data from 2023 across multiple countries. The goal is to identify key factors influencing peace levels globally. 
