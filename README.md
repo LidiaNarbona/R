@@ -33,6 +33,22 @@ The variables analyzed are:
 - **OECD**: 1 if the country belongs to OECD and 0 otherwise.
 - **GDPpc**: GDP per capita in US dollars.
 
+### Visualizations from Script 2
+
+![GPI by Geography](GPIperGeography.png)  
+Map showing the Global Peace Index distribution by geography.
+
+![3D Visualization](3d.png)  
+3D visualization representing multiple variables impacting peace.
+
+![GDP per Capita vs. GPI](ScatterplotGDPpc.png)  
+Scatterplot analyzing the relationship between GDP per capita and the Global Peace Index.
+
+![General Military Spending](ScatterplotMilitary.png)  
+Scatterplot depicting general military spending against peace metrics.
+
+![Military Spending and Ukraine](scatterplotMilitaryUkraineno.png)  
+Scatterplot depicting general military spending against peace metrics without Ukraine, due to being an outlier.
 ---
 
 Both analyses were done as academic projects for the Master in Geopolitics and Strategic Studies at University Carlos III of Madrid. The research tries to uncover meaningful patterns in political and social datasets.
