@@ -7,7 +7,7 @@ This repository contains two R scripts analyzing political and peace-related met
 This script explores relationships between poverty, unemployment rate, and political polarization measured by the Dalton Polarization Index. The countries analyzed are Greece, Italy and Hungary, also analyzing per by regions within each of them according to the NUTS 2 classification.
 - **UnemploymentRate**: total unemployment rate 2023. Source: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/LFST_R_LFU3RT/default/table?lang=en)  
 - **Poverty**:percentage of persons at risk of poverty or social exclusion 2023. Source: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/LFST_R_LFU3RT/default/table?lang=en)
-- **DaltonPolarization**: Index measuring how spread political parties are on the left-right spectrum (0 = all parties at the same point, 10 = parties at ideological extremes).  
+- **DaltonPolarization**: Index measuring how spread political parties are on the left-right spectrum (0 = all parties at the same point, 10 = parties at ideological extremes).  Source: [European Political Barometer](https://eupoliticalbarometer.uc3m.es/)
 - **CountryIdeology**: Metric of a country's typical ideology on a 0 (far left) to 10 (far right) scale.  
 Data is analyzed for Greece, Hungary, and Italy, also separated by regions within each country.  
 Source: [European Political Barometer](https://eupoliticalbarometer.uc3m.es/)
